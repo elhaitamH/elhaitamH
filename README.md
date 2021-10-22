@@ -7,7 +7,7 @@ I'm a graduated student of 2021 in search of a job.</p>
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
 </br>
-<img src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=dda24d503625c946d3ddb2a6ac10e3867f6f99c47b38a657&rid=200w.webp&ct=g"></br>
+<img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47ea6dw4ekejlqtocvccmwec2cn2ckjtlq0t75j9bf&rid=giphy.gif&ct=g" width = 300></br>
 </div></br>
 
  <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br>
