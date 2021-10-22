@@ -6,12 +6,12 @@ I'm a graduated student of 2021 in search of a job.</p>
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
-</br>
-<img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47ea6dw4ekejlqtocvccmwec2cn2ckjtlq0t75j9bf&rid=giphy.gif&ct=g" width = 300></br>
+<br/><br/>
+<img src="assets/main.jpg"></br>
 </div></br>
 
  <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br>
-I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p>
+I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p><br/>
 
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="icons/csharp.png" /></a>
@@ -28,7 +28,9 @@ I have the skills and training to help develop and maintain software programs an
 <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.png" /></a>
 <a href="https://www.heroku.com/" title="Heroku"><img src="icons/heroku.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/><br/>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/>
+<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<br/><br/>
 
 <h2 style=color:#011627;font-weight:bold> ✔✔The  GitHub Stats</h2>
 
