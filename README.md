@@ -1,19 +1,15 @@
 <h2 align="center"> 🎉 Hello I am El haitam! 🎉<h2>
 
 <p align="center">
-I'm a graduated student of 2021 in search of a job.
- 
- 
-</br>
+I'm a graduated student of 2021 in search of a job.</p>
+<div align="center">
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
- 
- 
 </br>
 <img src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=dda24d503625c946d3ddb2a6ac10e3867f6f99c47b38a657&rid=200w.webp&ct=g"></br>
+</div></br>
 
-</p>
  <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br>
 I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p>
 
