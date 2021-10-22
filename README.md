@@ -1,14 +1,17 @@
 <h2 align="center"> 🎉 Hello I am El haitam! 🎉<h2>
 
 <p align="center">
+I'm a graduated student of 2021 in search of a job.
+</br>
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
 </br>
-I'm a graduated student of 2021 in search of a job.
+<img src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=dda24d503625c946d3ddb2a6ac10e3867f6f99c47b38a657&rid=200w.webp&ct=g"></br>
+
 </p>
- <p align="center"> With a degree in computer programming and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.</br>
-I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p>
+ <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br>
+I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p>
 
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="icons/csharp.png" /></a>
@@ -35,4 +38,6 @@ I have the skills and training to help develop and maintain software programs an
 
 <h2 style=color:#011627;font-weight:bold> 📞 Reach me on:</h2>
 
-<a href="https://www.linkedin.com/in/elhaitam-hammoucha-121577205/" title=".net"><img src="icons/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/elhaitam-hammoucha-121577205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/elhaitamH" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="mailto: elhaitam1600@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%FF69B4.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red" /></a></div>
