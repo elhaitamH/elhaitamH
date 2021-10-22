@@ -2,10 +2,14 @@
 
 <p align="center">
 I'm a graduated student of 2021 in search of a job.
+ 
+ 
 </br>
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
+ 
+ 
 </br>
 <img src="https://media3.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=dda24d503625c946d3ddb2a6ac10e3867f6f99c47b38a657&rid=200w.webp&ct=g"></br>
 
