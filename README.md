@@ -10,8 +10,8 @@ I'm a graduated student of 2021 in search of a job.</p>
 <img src="assets/main.jpg"></br>
 </div></br>
 
- <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br>
-I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts. I also have extensive knowledge in: </p><br/>
+ <p align="center"> With a degree in computer programming 📜 and a determination to be one of the best in the field. Over the past two years, I have attended NB Community College in Programming and Mobile Application as well as a one-month internship where I gained valuable insight into how a successful business operates.🏢</br><br/>
+I have the skills and training to help develop and maintain software programs and make improvements that will improve functionality ✔. I have exceptional problematic skills with the ability to work effectively with technical and abstract concepts 🙌. I also have extensive knowledge in: </p><br/>
 
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="icons/csharp.png" /></a>
