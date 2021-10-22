@@ -29,7 +29,6 @@ I have the skills and training to help develop and maintain software programs an
 <a href="https://www.heroku.com/" title="Heroku"><img src="icons/heroku.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a><br/>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <br/><br/>
 
 <h2 style=color:#011627;font-weight:bold> ✔✔The  GitHub Stats</h2>
