@@ -41,10 +41,10 @@ I have the skills and training to help develop and maintain software programs an
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhaitamH&layout=nightowl&theme=nightowl&icon_color=00ffff)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elhaitamH&theme=nightowl&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff&bg_color=00ffff)
 
-</div>
+
 
 <h2 style=color:#011627;font-weight:bold> 📞 Reach me on:</h2>
 
 <a href="https://www.linkedin.com/in/elhaitam-hammoucha-121577205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/elhaitamH" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto: elhaitam1600@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%FF69B4.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red" /></a>
+<a href="mailto: elhaitam1600@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%FF69B4.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red" /></a></div>
