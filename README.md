@@ -38,7 +38,9 @@ I have the skills and training to help develop and maintain software programs an
 <div align="center">
 
 ![elhaitam's github stats](https://github-readme-stats.vercel.app/api?username=elhaitamH&show_icons=true&count_private=true&theme=nightowl&icon_color=)
+
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhaitamH&layout=nightowl&theme=nightowl&icon_color=00ffff)
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elhaitamH&theme=nightowl&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff&bg_color=00ffff)
 
 
