@@ -1,8 +1,7 @@
 <h2 align="center"> 🎉 Hello I am El haitam! 🎉<h2>
 
 <p align="center">
-<img src="https://badges.pufler.dev/visits/elhaitamH/elhaitam
-H">
+<img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
 </br>
