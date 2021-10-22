@@ -1,7 +1,7 @@
 <h2 align="center"> 🎉 Hello I am El haitam! 🎉<h2>
 <p align="center">
 <img src="assets/welcome.gif"/></br>
-I'm a graduated student of 2021 in search for a job.</p>
+I'm a graduated student of 2021 in search of a job.</p>
 <div align="center">
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
@@ -33,13 +33,18 @@ I have the skills and training to help develop and maintain software programs an
 <br/><br/>
 
 <h2 style=color:#011627;font-weight:bold> ✔✔The  GitHub Stats</h2>
+</div>
+
+<div align="center">
 
 ![elhaitam's github stats](https://github-readme-stats.vercel.app/api?username=elhaitamH&show_icons=true&count_private=true&theme=nightowl&icon_color=)
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhaitamH&layout=nightowl&theme=nightowl&icon_color=00ffff)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elhaitamH&theme=nightowl&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff&bg_color=00ffff)
 
+</div>
+
 <h2 style=color:#011627;font-weight:bold> 📞 Reach me on:</h2>
 
 <a href="https://www.linkedin.com/in/elhaitam-hammoucha-121577205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/elhaitamH" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto: elhaitam1600@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%FF69B4.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red" /></a></div>
+<a href="mailto: elhaitam1600@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%FF69B4.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=red" /></a>
