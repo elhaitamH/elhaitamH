@@ -1,6 +1,6 @@
 <h2 align="center"> 🎉 Hello I am El haitam! 🎉<h2>
-
 <p align="center">
+<img src="assets/welcome.gif"/></br>
 I'm a graduated student of 2021 in search of a job.</p>
 <div align="center">
 <img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
