@@ -3,7 +3,7 @@
 <img src="assets/welcome.gif"/></br>
 I'm a graduated student of 2021 in search of a job.</p>
 <div align="center">
-<img src="https://badges.pufler.dev/visits/elhaitamH/elhaitamH">
+<img src="https://badges.pufler.dev/visits/elhaitamH">
 <img src="https://badges.pufler.dev/repos/elhaitamH">
 <img src="https://badges.pufler.dev/commits/monthly/elhaitamH">
 <br/><br/>
